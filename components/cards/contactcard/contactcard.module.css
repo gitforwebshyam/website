@@ -1,0 +1,19 @@
+  .contactcard{
+    width: 300px;
+    margin: 30px;
+    text-align: center;
+  }
+  
+  .contactcard .heading{
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #292929;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .text{
+    line-height: 30px;
+    text-align: center;
+  }
